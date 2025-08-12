@@ -1,5 +1,4 @@
-# Machine Learning with Python: \\
-Applications to Atmospheric and Climate Physics
+# Machine Learning with Python:  <sub> Applications to Atmospheric and Climate Physics </sub>
 
 
 

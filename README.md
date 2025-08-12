@@ -1,6 +1,4 @@
-# Machine Learning with Python:   
-
-<span style="font-size:10px">Applications to Atmospheric and Climate Physics </span>
+# Machine Learning with Python:   <span style="font-size:10px">Applications to Atmospheric and Climate Physics </span>
 
 
 

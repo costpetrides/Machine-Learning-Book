@@ -1,5 +1,6 @@
-# Machine Learning with Python:  <sub> Applications to Atmospheric and Climate Physics </sub>
+# Machine Learning with Python:   
 
+<span style="font-size:10px">Applications to Atmospheric and Climate Physics /span>
 
 
 
